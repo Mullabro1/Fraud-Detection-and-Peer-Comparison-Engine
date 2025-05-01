@@ -1,0 +1,410 @@
+{
+"Current_Ratio": {
+  "Manufacturing": [
+    {
+      "threshold": 1.0,
+      "status": "Critical",
+      "short_description": "High Liquidity Risk",
+      "interpretation": "Insufficient assets to cover liabilities.",
+      "color": "red"
+    },
+    {
+      "threshold": 1.5,
+      "status": "Moderate",
+      "short_description": "Moderate Liquidity",
+      "interpretation": "May struggle with production cycles.",
+      "color": "yellow"
+    },
+    {
+      "threshold": 2.0,
+      "status": "Healthy",
+      "short_description": "Optimal Range",
+      "interpretation": "Supports inventory and production needs.",
+      "color": "green"
+    },
+    {
+      "threshold": "inf",
+      "status": "Caution",
+      "short_description": "Excess Liquidity",
+      "interpretation": "Potential inefficiency in asset utilization.",
+      "color": "blue"
+    }
+  ],
+  "Retail_and_Services": [
+    {
+      "threshold": 1.0,
+      "status": "Critical",
+      "short_description": "Liquidity Issues",
+      "interpretation": "Unable to meet short-term obligations.",
+      "color": "red"
+    },
+    {
+      "threshold": 1.5,
+      "status": "Healthy",
+      "short_description": "Ideal Range",
+      "interpretation": "Aligns with fast inventory turnover and low capital needs.",
+      "color": "green"
+    },
+    {
+      "threshold": 2.5,
+      "status": "Optimal",
+      "short_description": "Optimal Range",
+      "interpretation": "Aligns with fast inventory turnover and low capital needs.",
+      "color": "green"
+    },
+    {
+      "threshold": "inf",
+      "status": "Caution",
+      "short_description": "Inefficiency Risk",
+      "interpretation": "Significant inefficiency in managing working capital.",
+      "color": "blue"
+    }
+  ],
+  "Technology_and_Software": [
+    {
+      "threshold": 1.0,
+      "status": "Critical",
+      "short_description": "Liquidity Challenges",
+      "interpretation": "Insufficient assets to meet liabilities.",
+      "color": "red"
+    },
+    {
+      "threshold": 1.5,
+      "status": "Healthy",
+      "short_description": "Optimal Range",
+      "interpretation": "Reflects minimal inventory and high receivables turnover.",
+      "color": "green"
+    },
+    {
+      "threshold": 2.5,
+      "status": "Optimal",
+      "short_description": "Optimal Range",
+      "interpretation": "Reflects minimal inventory and high receivables turnover.",
+      "color": "green"
+    },
+    {
+      "threshold": "inf",
+      "status": "Caution",
+      "short_description": "Excess Liquidity",
+      "interpretation": "Inefficient use of resources.",
+      "color": "blue"
+    }
+  ],
+  "Healthcare": [
+    {
+      "threshold": 1.5,
+      "status": "Critical",
+      "short_description": "Liquidity Risk",
+      "interpretation": "Unable to meet high cash demands for equipment and payroll.",
+      "color": "red"
+    },
+    {
+      "threshold": 2.5,
+      "status": "Healthy",
+      "short_description": "Ideal Range",
+      "interpretation": "Supports significant cash requirements effectively.",
+      "color": "green"
+    },
+    {
+      "threshold": "inf",
+      "status": "Caution",
+      "short_description": "Excess Reserves",
+      "interpretation": "Inefficiency in resource allocation.",
+      "color": "blue"
+    }
+  ],
+  "Energy": [
+    {
+      "threshold": 0.9,
+      "status": "Critical",
+      "short_description": "Liquidity Issues",
+      "interpretation": "Insufficient assets for short-term obligations.",
+      "color": "red"
+    },
+    {
+      "threshold": 1.2,
+      "status": "Healthy",
+      "short_description": "Optimal Range",
+      "interpretation": "Reflects focus on long-term liquidity and fixed assets.",
+      "color": "green"
+    },
+    {
+      "threshold": "inf",
+      "status": "Caution",
+      "short_description": "Excess Liquidity",
+      "interpretation": "Inefficient use of resources.",
+      "color": "blue"
+    }
+  ],
+  "Construction": [
+    {
+      "threshold": 1.5,
+      "status": "Critical",
+      "short_description": "Liquidity Problems",
+      "interpretation": "Cannot support project-based investments.",
+      "color": "red"
+    },
+    {
+      "threshold": 2.0,
+      "status": "Healthy",
+      "short_description": "Ideal Range",
+      "interpretation": "Supports upfront investments and longer payment cycles.",
+      "color": "green"
+    },
+    {
+      "threshold": "inf",
+      "status": "Caution",
+      "short_description": "Excess Reserves",
+      "interpretation": "Inefficiency in managing resources.",
+      "color": "blue"
+    }
+  ],
+  "Automotive": [
+    {
+      "threshold": 1.5,
+      "status": "Critical",
+      "short_description": "Liquidity Issues",
+      "interpretation": "Insufficient assets for short-term obligations; threatens continuity of production and operations.",
+      "color": "red"
+    },
+    {
+      "threshold": 2.0,
+      "status": "Healthy",
+      "short_description": "Optimal Range",
+      "interpretation": "Supports significant inventory levels and short-term production cycles effectively.",
+      "color": "green"
+    },
+    {
+      "threshold": 2.5,
+      "status": "Caution",
+      "short_description": "Overcapitalization Risk",
+      "interpretation": "Excess assets may reflect inefficiency in managing inventory or cash reserves.",
+      "color": "blue"
+    },
+    {
+      "threshold": "inf",
+      "status": "Inefficient",
+      "short_description": "Excess Liquidity",
+      "interpretation": "Likely poor capital utilization; resources may be sitting idle instead of driving returns.",
+      "color": "gray"
+    }
+  ],
+  "Telecommunications": [
+    {
+      "threshold": 0.9,
+      "status": "Critical",
+      "short_description": "Liquidity Challenges",
+      "interpretation": "Insufficient assets to cover short-term liabilities; risks service continuity and vendor obligations.",
+      "color": "red"
+    },
+    {
+      "threshold": 1.2,
+      "status": "Healthy",
+      "short_description": "Ideal Range",
+      "interpretation": "Aligns with recurring revenue from long-term contracts and ability to manage high fixed costs effectively.",
+      "color": "green"
+    },
+    {
+      "threshold": 1.5,
+      "status": "Caution",
+      "short_description": "Potential Inefficiency",
+      "interpretation": "May reflect underutilization of capital or overly conservative liquidity management.",
+      "color": "blue"
+    },
+    {
+      "threshold": "inf",
+      "status": "Inefficient",
+      "short_description": "Excess Reserves",
+      "interpretation": "High reserves suggest poor allocation strategy; capital may be idling instead of generating returns.",
+      "color": "gray"
+    }
+  ],
+  "Food_and_Beverage": [
+    {
+      "threshold": 1.2,
+      "status": "Critical",
+      "short_description": "Liquidity Problems",
+      "interpretation": "Unable to maintain inventory or meet supplier obligations; may disrupt operations and supply chain stability.",
+      "color": "red"
+    },
+    {
+      "threshold": 1.8,
+      "status": "Healthy",
+      "short_description": "Optimal Range",
+      "interpretation": "Supports consistent cash flow demands for inventory management and timely supplier payments.",
+      "color": "green"
+    },
+    {
+      "threshold": 2.2,
+      "status": "Caution",
+      "short_description": "Overcapitalization Risk",
+      "interpretation": "May indicate tied-up resources that could otherwise be invested into growth or operational improvements.",
+      "color": "blue"
+    },
+    {
+      "threshold": "inf",
+      "status": "Inefficient",
+      "short_description": "Resource Inefficiency",
+      "interpretation": "Excessive liquidity suggests inefficient capital use and missed opportunities to scale or optimize operations.",
+      "color": "gray"
+    }
+  ],
+  "Banks": [
+    {
+      "threshold": 1.0,
+      "status": "Critical",
+      "short_description": "Major Crisis Signal",
+      "interpretation": "Leads to bank runs (fractional reserve system); immediate and severe liquidity shortfall.",
+      "color": "red"
+    },
+    {
+      "threshold": 1.2,
+      "status": "Moderate",
+      "short_description": "Bare Minimum, Risky",
+      "interpretation": "Requires extremely strict asset-liability management; regulators often mandate significantly higher ratios for safety.",
+      "color": "yellow"
+    },
+    {
+      "threshold": 1.5,
+      "status": "Healthy",
+      "short_description": "More Comfortable",
+      "interpretation": "Better buffer, but prudent management still crucial; reflects a more stable short-term position.",
+      "color": "green"
+    },
+    {
+      "threshold": "inf",
+      "status": "Caution",
+      "short_description": "Potentially Inefficient",
+      "interpretation": "May indicate poor lending/investment opportunities or overly conservative approach; banks aim to actively use assets, not hold excess cash; high ratios can also reflect regulatory requirements.",
+      "color": "blue"
+    }
+  ],
+  "Insurance_Companies": [
+    {
+      "threshold": 1.0,
+      "status": "Critical",
+      "short_description": "Highly Problematic",
+      "interpretation": "Insurers must be able to pay claims; immediate inability to do so is a severe issue and erodes trust.",
+      "color": "red"
+    },
+    {
+      "threshold": 1.2,
+      "status": "Moderate",
+      "short_description": "May Be Acceptable (Life Insurance)",
+      "interpretation": "If claims are highly predictable, especially in life insurance; property/casualty insurers typically need higher ratios due to catastrophic risk exposure.",
+      "color": "yellow"
+    },
+    {
+      "threshold": 1.5,
+      "status": "Healthy",
+      "short_description": "May Be Acceptable (Life)",
+      "interpretation": "Suggests a slightly stronger short-term claims-paying ability; acceptable for life insurers with predictable payouts.",
+      "color": "green"
+    },
+    {
+      "threshold": "inf",
+      "status": "Caution",
+      "short_description": "Strong Ability to Pay",
+      "interpretation": "Could signal inefficient investment strategies if excessively high; insurers aim to balance return generation with claims obligations.",
+      "color": "blue"
+    }
+  ],
+  "Securities_Firms": [
+    {
+      "threshold": 1.0,
+      "status": "Critical",
+      "short_description": "Very Dangerous",
+      "interpretation": "High short-term obligations from trading and settlements; inability to settle trades can trigger a cascade of defaults.",
+      "color": "red"
+    },
+    {
+      "threshold": 1.2,
+      "status": "Moderate",
+      "short_description": "Absolute Minimum, Risky",
+      "interpretation": "Extremely sensitive to market volatility and the need to cover trading liabilities; requires high-velocity asset and risk management.",
+      "color": "yellow"
+    },
+    {
+      "threshold": 1.5,
+      "status": "Healthy",
+      "short_description": "Safer",
+      "interpretation": "Provides a better buffer for market fluctuations and unexpected liquidity demands, improving stability during stress events.",
+      "color": "green"
+    },
+    {
+      "threshold": "inf",
+      "status": "Caution",
+      "short_description": "Often Preferred",
+      "interpretation": "Due to inherent market volatility and the need to cover potential losses; but excessively high ratios can suggest overly conservative strategies or missed profit opportunities from trading.",
+      "color": "blue"
+    }
+  ],
+  "Asset_Management_Companies": [
+    {
+      "threshold": 1.0,
+      "status": "Not Meaningful",
+      "short_description": "Less Relevant",
+      "interpretation": "Liquidity of underlying assets (how quickly they can be sold without significant loss) is far more important than the current ratio itself.",
+      "color": "gray"
+    },
+    {
+      "threshold": 1.2,
+      "status": "Not Meaningful",
+      "short_description": "Less Relevant",
+      "interpretation": "Liquidity of underlying assets is the key consideration for meeting investor redemptions; current ratio plays a minor role.",
+      "color": "gray"
+    },
+    {
+      "threshold": 1.5,
+      "status": "Not Meaningful",
+      "short_description": "Less Relevant",
+      "interpretation": "Focus is on the ability to liquidate portfolio holdings to satisfy investor withdrawals, not internal current liabilities.",
+      "color": "gray"
+    },
+    {
+      "threshold": "inf",
+      "status": "Not Meaningful",
+      "short_description": "Less Relevant",
+      "interpretation": "The current ratio provides limited insight into actual liquidity risk for these entities; asset-liquidity profiling is more critical.",
+      "color": "gray"
+    }
+  ],
+  "defaults": [
+    {
+      "max": 1.0,
+      "status": "Critical",
+      "short_desc": "Urgent concern",
+      "interpretation": "Company may face difficulty meeting short-term liabilities.",
+      "color": "red"
+    },
+    {
+      "max": 1.5,
+      "status": "Risky",
+      "short_desc": "Low but manageable",
+      "interpretation": "Company should monitor short-term cash flow.",
+      "color": "yellow"
+    },
+    {
+      "max": 3.0,
+      "status": "Healthy",
+      "short_desc": "Optimal",
+      "interpretation": "Strong solvency and operational efficiency.",
+      "color": "green"
+    },
+    {
+      "max": 4.0,
+      "status": "Moderate",
+      "short_desc": "Underutilization risk",
+      "interpretation": "Funds may be better invested elsewhere.",
+      "color": "yellow"
+    },
+    {
+      "max": "inf",
+      "status": "Caution",
+      "short_desc": "Excessive assets",
+      "interpretation": "Consultation recommended to optimize financial strategy.",
+      "color": "blue"
+    }
+  ]
+}
+}

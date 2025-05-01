@@ -1,0 +1,98 @@
+[
+    {
+        "org_id": 10,
+        "type": "standalone",
+        "periods": [
+            {
+                "data_range": "2018-2019",
+                "Cash_Ratio": 1.7594073685590665,
+                "Current_Ratio": 4.07,
+                "Quick_Ratio": 4.07
+            }
+        ]
+    },
+    {
+        "org_id": 10,
+        "type": "standalone",
+        "periods": [
+            {
+                "data_range": "2019-2020",
+                "Cash_Ratio": 8.690065017716467,
+                "Current_Ratio": 11.33,
+                "Quick_Ratio": 11.33
+            }
+        ]
+    },
+    {
+        "org_id": 10,
+        "type": "standalone",
+        "periods": [
+            {
+                "data_range": "2020-2021",
+                "Cash_Ratio": 3.1231775425472987,
+                "Current_Ratio": 4.51,
+                "Quick_Ratio": 4.51
+            }
+        ]
+    },
+    {
+        "org_id": 10,
+        "type": "consolidated",
+        "periods": [
+            {
+                "data_range": "2020-2021",
+                "Cash_Ratio": 3.2360075811852465,
+                "Current_Ratio": 4.62,
+                "Quick_Ratio": 4.62
+            }
+        ]
+    },
+    {
+        "org_id": 10,
+        "type": "standalone",
+        "periods": [
+            {
+                "data_range": "2021-2022",
+                "Cash_Ratio": 6.791185493551987,
+                "Current_Ratio": 10.54,
+                "Quick_Ratio": 10.54
+            }
+        ]
+    },
+    {
+        "org_id": 10,
+        "type": "consolidated",
+        "periods": [
+            {
+                "data_range": "2021-2022",
+                "Cash_Ratio": 8.28925591013869,
+                "Current_Ratio": 10.61,
+                "Quick_Ratio": 10.61
+            }
+        ]
+    },
+    {
+        "org_id": 10,
+        "type": "standalone",
+        "periods": [
+            {
+                "data_range": "2022-2023",
+                "Cash_Ratio": 1.1707453177114515,
+                "Current_Ratio": 5.45,
+                "Quick_Ratio": 5.45
+            }
+        ]
+    },
+    {
+        "org_id": 10,
+        "type": "consolidated",
+        "periods": [
+            {
+                "data_range": "2022-2023",
+                "Cash_Ratio": 2.3322153151533853,
+                "Current_Ratio": 3.47,
+                "Quick_Ratio": 3.47
+            }
+        ]
+    }
+]

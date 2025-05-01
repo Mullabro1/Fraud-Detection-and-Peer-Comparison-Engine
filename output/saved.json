@@ -1,0 +1,353 @@
+[
+    {
+        "organization_name": "DREAMPLUG TECHNOLOGIES PRIVATE LIMITED",
+        "financials": {
+            "2018-2019": {
+                "standalone": {
+                    "profit_loss": "-608.69",
+                    "networth": "1177.79",
+                    "roe": -51.68069010604608
+                }
+            },
+            "2019-2020": {
+                "standalone": {
+                    "profit_loss": "-3611.11",
+                    "networth": "6167.96",
+                    "roe": -58.54626164890823,
+                    "yoy_growth": -13.284597262099934
+                }
+            },
+            "2020-2021": {
+                "standalone": {
+                    "profit_loss": "-5238.74",
+                    "networth": "7095.77",
+                    "roe": -73.82905590231927,
+                    "yoy_growth": -26.103791810072018
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "7095.94",
+                    "roe": 0.0
+                }
+            },
+            "2021-2022": {
+                "standalone": {
+                    "profit_loss": "-12725.40",
+                    "networth": "29731.74",
+                    "roe": -42.80072407467574,
+                    "yoy_growth": 42.027263451257
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "29661.47",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2022-2023": {
+                "standalone": {
+                    "profit_loss": "-12321.12",
+                    "networth": "39264.42",
+                    "roe": -31.379859934261095,
+                    "yoy_growth": 26.683810583410487
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "41159.72",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            }
+        }
+    },
+    {
+        "organization_name": "GROWW INVEST TECH PRIVATE LIMITED",
+        "financials": {
+            "2016-2017": {
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "19.92",
+                    "roe": 0.0
+                }
+            },
+            "2017-2018": {
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "7.13",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2018-2019": {
+                "standalone": {
+                    "profit_loss": "0.00",
+                    "networth": "34.78",
+                    "roe": 0.0
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "34.79",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2019-2020": {
+                "standalone": {
+                    "profit_loss": "0.00",
+                    "networth": "75.42",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "75.64",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2020-2021": {
+                "standalone": {
+                    "profit_loss": "0.00",
+                    "networth": "2598.20",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2021-2022": {
+                "standalone": {
+                    "profit_loss": "0.00",
+                    "networth": "5166.10",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2022-2023": {
+                "standalone": {
+                    "profit_loss": "0.00",
+                    "networth": "5900.20",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            }
+        }
+    },
+    {
+        "organization_name": "FSN E-COMMERCE VENTURES LIMITED",
+        "financials": {
+            "2019-2020": {
+                "standalone": {
+                    "profit_loss": "150.69",
+                    "networth": "4188.74",
+                    "roe": 3.5975018740719165
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "3224.05",
+                    "roe": 0.0
+                }
+            },
+            "2020-2021": {
+                "standalone": {
+                    "profit_loss": "361.88",
+                    "networth": "5611.48",
+                    "roe": 6.448922565882798,
+                    "yoy_growth": 79.26113151911814
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "4898.96",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2021-2022": {
+                "standalone": {
+                    "profit_loss": "1035.13",
+                    "networth": "15499.47",
+                    "roe": 6.678486425664879,
+                    "yoy_growth": 3.5597242397754805
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "13399.00",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2022-2023": {
+                "standalone": {
+                    "profit_loss": "570.82",
+                    "networth": "14555.57",
+                    "roe": 3.9216602304135124,
+                    "yoy_growth": -41.27920638809878
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "13780.10",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2023-2024": {
+                "standalone": {
+                    "profit_loss": "1170.90",
+                    "networth": "16274.48",
+                    "roe": 7.194699922823957,
+                    "yoy_growth": 83.46056262159469
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "12622.33",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            }
+        }
+    },
+    {
+        "organization_name": "ANI TECHNOLOGIES PRIVATE LIMITED",
+        "financials": {
+            "2018-2019": {
+                "standalone": {
+                    "profit_loss": "-11602.70",
+                    "networth": "42625.20",
+                    "roe": -27.220282837382587
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "25587.80",
+                    "roe": 0.0
+                }
+            },
+            "2019-2020": {
+                "standalone": {
+                    "profit_loss": "-17146.20",
+                    "networth": "57726.46",
+                    "roe": -29.70249691389356,
+                    "yoy_growth": -9.118987085255634
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "37142.36",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2020-2021": {
+                "standalone": {
+                    "profit_loss": "-13260.80",
+                    "networth": "45181.00",
+                    "roe": -29.350390650937342,
+                    "yoy_growth": 1.1854433113046439
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "26876.00",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2021-2022": {
+                "standalone": {
+                    "profit_loss": "-30824.20",
+                    "networth": "43847.30",
+                    "roe": -70.29896937781801,
+                    "yoy_growth": -139.51629882504793
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "33897.20",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2022-2023": {
+                "standalone": {
+                    "profit_loss": "-10825.60",
+                    "networth": "35867.70",
+                    "roe": -30.182030071624332,
+                    "yoy_growth": 57.06618412936804
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "28894.90",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            }
+        }
+    },
+    {
+        "organization_name": "ZOHO CORPORATION PRIVATE LIMITED",
+        "financials": {
+            "2018-2019": {
+                "standalone": {
+                    "profit_loss": "3923.04",
+                    "networth": "28576.62",
+                    "roe": 13.728145595945218
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "29043.83",
+                    "roe": 0.0
+                }
+            },
+            "2019-2020": {
+                "standalone": {
+                    "profit_loss": "7461.47",
+                    "networth": "35791.45",
+                    "roe": 20.847073812321103,
+                    "yoy_growth": 51.85644460587998
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "36825.78",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2020-2021": {
+                "standalone": {
+                    "profit_loss": "19713.35",
+                    "networth": "55024.01",
+                    "roe": 35.82681451242829,
+                    "yoy_growth": 71.85536365901778
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "56023.84",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2021-2022": {
+                "standalone": {
+                    "profit_loss": "23868.61",
+                    "networth": "81086.42",
+                    "roe": 29.436014069926873,
+                    "yoy_growth": -17.838037038666823
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "85715.30",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            },
+            "2022-2023": {
+                "standalone": {
+                    "profit_loss": "25332.37",
+                    "networth": "107357.03",
+                    "roe": 23.596377433317596,
+                    "yoy_growth": -19.838408225845043
+                },
+                "consolidated": {
+                    "profit_loss": "0.00",
+                    "networth": "115633.83",
+                    "roe": 0.0,
+                    "yoy_growth": null
+                }
+            }
+        }
+    }
+]

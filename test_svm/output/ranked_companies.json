@@ -1,0 +1,57 @@
+[
+    {
+        "rank": 1,
+        "company_name": "AKAMAI TECHNOLOGIES INDIA PRIVATE LIMITED",
+        "predicted_profit": 7.157700538635254
+    },
+    {
+        "rank": 2,
+        "company_name": "TIAA GLOBAL CAPABILITIES PRIVATE LIMITED",
+        "predicted_profit": 7.157700538635254
+    },
+    {
+        "rank": 3,
+        "company_name": "BLUE YONDER INDIA PRIVATE LIMITED",
+        "predicted_profit": 7.1052327156066895
+    },
+    {
+        "rank": 4,
+        "company_name": "HEWLETT PACKARD ENTERPRISE GLOBALSOFT PRIVATE LIMITED",
+        "predicted_profit": 6.629603862762451
+    },
+    {
+        "rank": 5,
+        "company_name": "ARM EMBEDDED TECHNOLOGIES PRIVATE LIMITED",
+        "predicted_profit": 6.624613285064697
+    },
+    {
+        "rank": 6,
+        "company_name": "FIDELITY INFORMATION SERVICES INDIA PRIVATE LIMITED",
+        "predicted_profit": 6.544266700744629
+    },
+    {
+        "rank": 7,
+        "company_name": "HITACHI ENERGY TECHNOLOGY SERVICES PRIVATE LIMITED",
+        "predicted_profit": 6.452368259429932
+    },
+    {
+        "rank": 8,
+        "company_name": "FINO PAYTECH LIMITED",
+        "predicted_profit": 6.3283772468566895
+    },
+    {
+        "rank": 9,
+        "company_name": "MEDIA MATRIX WORLDWIDE LIMITED",
+        "predicted_profit": 3.2323732376098633
+    },
+    {
+        "rank": 10,
+        "company_name": "DREAMPLUG TECHNOLOGIES PRIVATE LIMITED",
+        "predicted_profit": -7.373276233673096
+    },
+    {
+        "rank": 11,
+        "company_name": "RESILIENT INNOVATIONS PRIVATE LIMITED",
+        "predicted_profit": -7.583539962768555
+    }
+]

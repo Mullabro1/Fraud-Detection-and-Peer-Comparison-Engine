@@ -1,0 +1,85 @@
+[
+    {
+        "organization_name": "DREAMPLUG TECHNOLOGIES PRIVATE LIMITED",
+        "standalone": {
+            "yoy_growth_summary": "YOY growth of ROE (standalone) is -13.3% in FY19-20, -26.1% in FY20-21, 42.0% in FY21-22, 26.7% in FY22-23.",
+            "analysis": [
+                " Moderate concern: ROE fluctuated by -26.1% in FY20-21.",
+                " Significant variation: ROE fluctuated by 42.0% in FY21-22.",
+                " Moderate concern: ROE fluctuated by 26.7% in FY22-23."
+            ]
+        },
+        "consolidated": {
+            "yoy_growth_summary": "YOY growth of ROE (consolidated) has No data for analysis.",
+            "analysis": [
+                "No major fluctuations detected."
+            ]
+        }
+    },
+    {
+        "organization_name": "GROWW INVEST TECH PRIVATE LIMITED",
+        "standalone": {
+            "yoy_growth_summary": "YOY growth of ROE (standalone) has No data for analysis.",
+            "analysis": [
+                "No major fluctuations detected."
+            ]
+        },
+        "consolidated": {
+            "yoy_growth_summary": "YOY growth of ROE (consolidated) has No data for analysis.",
+            "analysis": [
+                "No major fluctuations detected."
+            ]
+        }
+    },
+    {
+        "organization_name": "FSN E-COMMERCE VENTURES LIMITED",
+        "standalone": {
+            "yoy_growth_summary": "YOY growth of ROE (standalone) is 79.3% in FY20-21, 3.6% in FY21-22, -41.3% in FY22-23, 83.5% in FY23-24.",
+            "analysis": [
+                " Moderate concern: ROE fluctuated by 79.3% in FY20-21.",
+                " Moderate concern: ROE fluctuated by -41.3% in FY22-23.",
+                " Moderate concern: ROE fluctuated by 83.5% in FY23-24."
+            ]
+        },
+        "consolidated": {
+            "yoy_growth_summary": "YOY growth of ROE (consolidated) has No data for analysis.",
+            "analysis": [
+                "No major fluctuations detected."
+            ]
+        }
+    },
+    {
+        "organization_name": "ANI TECHNOLOGIES PRIVATE LIMITED",
+        "standalone": {
+            "yoy_growth_summary": "YOY growth of ROE (standalone) is -9.1% in FY19-20, 1.2% in FY20-21, -139.5% in FY21-22, 57.1% in FY22-23.",
+            "analysis": [
+                " Significant variation: ROE fluctuated by -139.5% in FY21-22.",
+                " Consistent downward trend: ROE has declined over a 3-year period. Potential concern.",
+                " Moderate concern: ROE fluctuated by 57.1% in FY22-23.",
+                " Consistent downward trend: ROE has declined over a 3-year period. Potential concern."
+            ]
+        },
+        "consolidated": {
+            "yoy_growth_summary": "YOY growth of ROE (consolidated) has No data for analysis.",
+            "analysis": [
+                "No major fluctuations detected."
+            ]
+        }
+    },
+    {
+        "organization_name": "ZOHO CORPORATION PRIVATE LIMITED",
+        "standalone": {
+            "yoy_growth_summary": "YOY growth of ROE (standalone) is 51.9% in FY19-20, 71.9% in FY20-21, -17.8% in FY21-22, -19.8% in FY22-23.",
+            "analysis": [
+                " Moderate concern: ROE fluctuated by 51.9% in FY19-20.",
+                " Significant variation: ROE fluctuated by 71.9% in FY20-21."
+            ]
+        },
+        "consolidated": {
+            "yoy_growth_summary": "YOY growth of ROE (consolidated) has No data for analysis.",
+            "analysis": [
+                "No major fluctuations detected."
+            ]
+        }
+    }
+]
